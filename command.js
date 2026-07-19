@@ -1,0 +1,1 @@
+When you deactivate an organization, all associated resources will be deleted: Apps, Services, Secrets, Domains, GitHub app and API credentials. You can reactivate an organization at any time.
